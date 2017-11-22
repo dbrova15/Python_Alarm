@@ -1,0 +1,1 @@
+python C:\Users\Zenna\PycharmProjects\Python_alarm\main.py
